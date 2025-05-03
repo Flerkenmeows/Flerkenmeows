@@ -9,7 +9,7 @@
 - 💬 Ask me about anything?
 - 📫 Connect with me:
 
-  [![telegram](https://img.shields.io/badge/Telegram-Tranquil_Wind-darkgrey?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Tranquil_Wind) [![Discord](https://img.shields.io/badge/Discord-tranquil_wind-darkgrey?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/616279491421143041)
+  [![telegram](https://img.shields.io/badge/Telegram-WreckedSky-darkgrey?style=flat-square&logo=telegram&logoColor=white)](https://t.me/WreckedSky) [![Discord](https://img.shields.io/badge/Discord-tranquil_wind-darkgrey?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/616279491421143041)
   
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I sleep
